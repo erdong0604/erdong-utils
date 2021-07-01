@@ -51,3 +51,4 @@
   ## 已有工具方法说明
 
   - guid 生成uuid
+  - randomNumber 生成任意位数随机数(数字)

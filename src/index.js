@@ -1,5 +1,5 @@
 
 import guid from './guid.js'
-export default { 
-	guid
-}
+import randomNumber from './randomNumber.js'
+console.log(guid());
+console.log(randomNumber(3));
